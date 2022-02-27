@@ -1,0 +1,432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scorner rebuked, or, A reply to an atheistical libeller.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85262</idno>
+            <idno type="STC">Wing F864D</idno>
+            <idno type="STC">ESTC R177046</idno>
+            <idno type="EEBO-CITATION">45789309</idno>
+            <idno type="OCLC">ocm 45789309</idno>
+            <idno type="VID">172618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172618)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scorner rebuked, or, A reply to an atheistical libeller.</title>
+                  <author>Field, John, 1652-1723.</author>
+                  <author>Batt, Jasper, d. 1702.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Field.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Postscript on p. [1] at end signed: J. Batt.</note>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trosse, George, 1631-1713. --  Sauciness of a seducer rebuked, or, The pride and folly of an ignorant scribbler.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172618:1" rendition="simple:additions"/>
+            <head>THE <hi>Scorner Rebuked,</hi> Or A <hi>REPLY</hi> to an Atheiſtical LIBELLER.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Prov. 19.29.</hi>
+                  </bibl> Judgements are prepared for Scorners, and Stripes for the back of Fools.</q>
+            </epigraph>
+            <p>HAving met with <hi>The Saucineſs of a Seducer Rebu<g ref="char:EOLhyphen"/>ked, A Scandalous Pamphlet</hi> ſo Intituled, <hi>Or The Pride and folly of an Ignorant Scribbler made manifeſt.</hi> In Preface of which he hath manifeſt his En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y as well as Scorn and Scurrility, together with Dr. <hi>Moors,</hi> from his <hi>Myſtery of Godlineſs,</hi> p. 533. Where he ſaith in his Title Page as quoted, <hi>Quakeriſm is a meer flam of the Devil, a ſmooth Tale to ſeduce the ſimple from their Allegiance to Chriſt.</hi> And from whence I obſerve, how they Inſinuate that Allegiance is due to Chriſt, and he conſequently muſt be a King or Ruler; yet how many are Alleging that its not poſſible while we are here to keep Chriſts Commands (of which number I account this Author) or to live here with<g ref="char:EOLhyphen"/>out Tranſgreſſing Gods Law. So that the Allegiance (we are inſinuated to draw people from) that's due unto Chriſt, is not accounted by them Poſſible while here to be fully paid, neither is ſo paid by them. And indeed with grief it may be truly ſaid, that too many that own Chriſt in Words and ſo pro<g ref="char:EOLhyphen"/>feſs
+<pb n="2" facs="tcp:172618:2"/> him, fall ſo ſhort of paying that Allegiance du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to him, that they are found in Rebellion againſt him his Light and Spirit in their Hearts, and that God tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made them, and will ſo continue if they do not receive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe, and walk in him that is that Light in whom al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nations of them that are Saved muſt Walk, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pay that Allegiance, Obedience and Reverence that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> due to him; And as many fall ſhort of their Allegi<g ref="char:EOLunhyphen"/>ance to Chriſt, Love to their Neighbour, and goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Manners, ſo this Scribling Libeller hath manifeſt him<g ref="char:EOLunhyphen"/>ſelf of this Number, 1. By his Blaſphemy againſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Light within, the <hi>Quakers</hi> Light, (which is no othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then the Light of Chriſt Jeſus) calling it <hi>an Idol th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great Diana, by whom the Jacks of all Trades have thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wealth, Ignis fatui,</hi> &amp;c. 2. By calling us, <hi>a Fanatic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſort of People, the ſpawn of Munſter Reformers, a by-blo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the jugling Jeſuits, or derive our Pedegree from th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nopolitan</hi> Fathers, or whether we are of the Mun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>geral Race who have licked up Socinus his Vomit.</hi> And fur<g ref="char:EOLunhyphen"/>ther to ſhew how like in Spirit he is to the old Perſe<g ref="char:EOLunhyphen"/>cutors; he ſeems offended that we feel the Warmth o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Toleration by ſaying <hi>ſince they felt that they ſwarm amon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us.</hi> But let me tell him, we have alſo felt the Laſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Severity of his Brethren, the heat of their Ange<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for it was fierce, the warmth of their Wrath, for i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was cruel: Who did both Whip, Brand, Cut off Ear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Hanged in <hi>New England,</hi> when Power was i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their hands.</p>
+            <p>And we have alſo patiently undergone many hard<g ref="char:EOLunhyphen"/>ſhips, and cruel ſufferings from our Perſecutors her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when ſome that in time of Sunſhine, and under th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warmth of Indulgence, in fair Weather, could mak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fair ſhew, and great appearance, but when once th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Storm hath riſen, the Wind of Perſecution blew ſtrong and the Sun thereof ſhone hot, they have been ſcorche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up, and blown away, their Meeting Houſes Empty an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:172618:2"/> ſhut up, their Preachers Abſconded, their flocks Scat<g ref="char:EOLhyphen"/>tered: And then <hi>Paul Baskes</hi> was remembred, then their Chriſtian Policy was uſed, then to Church for fear of 20 <hi>l. per Month,</hi> or leaſt they ſhould be Excom<g ref="char:EOLhyphen"/>municated, and ſuffer Impriſonment. Now when the Lord by his Providence hath brought it to paſs, that the hearts of the Government are inclined towards us, and give us the liberty of Exerciſing our tender Con<g ref="char:EOLhyphen"/>ſciences. This Nameleſs Author his Mr. <hi>Troſs</hi>'s Ad<g ref="char:EOLhyphen"/>vocate, like a Night Bird ſends forth his Mournful Noat, and Vents his Diſpleaſure at the warmth we en<g ref="char:EOLhyphen"/>joy, plainly ſhewing what he wants to be at. And its not to be doubted but if he had power he would Laſh more ſeverely with his Whip, (their old Inſtrument) then he hath with his Pen. But we humbly thank the Lord and the Government for the preſent Eaſe we En<g ref="char:EOLhyphen"/>joy, by the Reſtraining ſuch bitter Spirits from Vent<g ref="char:EOLhyphen"/>ing their Malice on that wiſe againſt us. But we can ſay of this and all our Enemies, the Lord forgive them, and incline their Hearts to keep his Law. And he is alſo offended that the people come to our Meet<g ref="char:EOLhyphen"/>ings ſaying, <hi>Its juſt with God to give them up to ſtrange Deluſions to believe Lyes.</hi>
+            </p>
+            <p>Why ſo angry? what muſt people take all upon truſt, may they not hear for themſelves, and follow the Chri<g ref="char:EOLhyphen"/>ſtian Advice. <hi>Try all things hold faſt that which is good.</hi> But to conclude he ſaith, <hi>If what I have writ in this Treatiſe be an Antidote to any againſt that ſpread<g ref="char:EOLhyphen"/>ing Evil</hi> (viz Quakeriſm) <hi>my Labour will not be loſt.</hi> Poor Man, what pains thou haſt taken to bring forth a Brat, thou doſt not own, what muſt J. N. be blamed for having his Book <hi>Midwifed</hi> (as thou Phraſes it) <hi>into the World by a Nameleſs Printer,</hi> and muſt the Name of thy Fathers Brat be concealed; only thou tells he is one <hi>ſtudious to know &amp; practice the Doctrine according to Godlineſs.</hi>
+            </p>
+            <p>But what a Proficient he hath manifeſt himſelf in
+<pb n="2" facs="tcp:172618:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:172618:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172618:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:172618:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:172618:5"/> this ſtudy, let me now examine from a few places <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Book relating to the Light of Chriſt, and the Ho<g ref="char:EOLunhyphen"/>ly Scriptures. For much of it is ſuch empty ſtuff, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo little purpoſe unleſs to manifeſt his folly, and ſco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fing Spirit, that its not worth minding. I ſhall fir<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſet down what he quotes of <hi>Joſ. Nott.</hi> p. 6. <hi>I. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <q>and therefore I deſire the Reader to keep thy min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> near to the Light of Jeſus Chriſt, in thy own heart <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Conſcience,</q> that ſo thou mayeſt underſtand wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou readeſt.</p>
+            <p>To which this <hi>Libeller</hi> Replys thus,</p>
+            <p>
+               <q>After a ſmall Blunder, the (1ſt.) for thee, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> comes the rare <hi>Cotholican,</hi> with which thoſe <hi>Quac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> do greater Wonders, then ever did <hi>Ponteus</hi> wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Balſom, Oynment, and that is the Light withi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reader, if thou canſt but get <hi>Joſeph Nott</hi> to ſpare the a few Ounces of this Choice Medicine called <hi>Lig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> within,</hi> prize it above <hi>Aurum Fotabile</hi> or the <hi>Phil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſophers Stone.</hi>
+               </q>
+            </p>
+            <p>Now Obſerve what a Proficient he is in the Doctrin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Practice of Godlineſs, who makes ſuch a ſcoffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the Light of Jeſus Chriſt comparing it to <hi>Ponte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Balſam, and ſcornfully ca ling it a choice Medicin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Now compare this with the Teſtimony of the Ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Scriptures, Jo. 8.12. <hi>Then ſpake Jeſus again unto the ſaying, I am the Light of the World, he that followeth n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall not walk in Darkneſs, but ſhall have the light of Lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and Jo. 1.8. <hi>He was not that Light, but was ſent to be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> witneſs of that Light, that was the true Light that lighte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every man, that cometh in the World.</hi>
+            </p>
+            <p>And its great contempt and ſcorn in him thus t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> compare it, and to Inſinuate as if the Light of Jeſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chriſt was <hi>to be ſold by Ounces,</hi> for it was, that and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other but <hi>the Light of Jeſus Chriſt, that Joſ. Nott deſire the Reader to keep his mind near to</hi> And altho this A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>thor pretends to know and practice the Doctrine ac<g ref="char:EOLunhyphen"/>cording
+<pb n="5" facs="tcp:172618:5"/> to Godlineſs, he appears more like an <hi>Atheiſt</hi> filled with Scorn and Deriſion, for he proceeds, <hi>But if he will not part with any of it, follow my Directions, &amp; thou mayest obtain it thy ſelf, is not this like</hi> Simon Magus, <hi>and</hi> p. 7. He farther proceeds in his deriding manner thus, <hi>Deny Scripture, Revile Magiſtrates, reproach Mini<g ref="char:EOLhyphen"/>ſters, caſt off Ordinances, gratify the deſires of thy Carnal heart, follow the Dictat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of thy muddy Brains, whenever thy giddy head turns rou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, pretend to Viſions and Revelati<g ref="char:EOLhyphen"/>ons: And when thou art thus accoutered, Read the</hi> Quakers <hi>Books, and keep cloſe to their ſilent Meetings, and thou art in a very fair way to get this rare ſecret.</hi>
+            </p>
+            <p>Now if this be like one ſtudious to know and pra<g ref="char:EOLhyphen"/>ctice Godlineſs, or a ſcoffing <hi>Atheiſt,</hi> I leave to his Ma<g ref="char:EOLhyphen"/>ſter <hi>Hallet,</hi> and his Maſter <hi>Troſs,</hi> and the reſt of their Brethren, with all that read this to Judge, whether this is the way to attain unto the Light of Jeſus Chriſt. I.N. deſired his Reader to keep his mind near unto, which is that which ſhines in Peoples Hearts and Conſcien<g ref="char:EOLhyphen"/>ces, and ſhews them Sin, and manifeſts the corrupt de<g ref="char:EOLhyphen"/>ſires of their Carnal Hearts, and lets them ſee they are ſinners againſt God and Chriſt: And will lead and guide all thoſe that believe in it, and receive it unto Gods Holy Hill, and to his Tabernacles, and by walking in it they will come to know a being Cleanſed from all Unrighteouſneſs by the Blood of Jeſus Chriſt. But he goes on <hi>p.</hi> 7.</p>
+            <p n="1">1. Queſt. <hi>Is this Light of Jeſus Chriſt in the heart and Conſcience; God or Creature, finite or infinite?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> The Life in the Word that was in the Be<g ref="char:EOLhyphen"/>ginning with God, and was God, is the true Light, that lighteth every man that cometh into the World, and <hi>is not a Creature or finite.</hi>
+            </p>
+            <p>Then he proceeds to his 2d <hi>Queſtion</hi> for he puts great ſtreſs on 3 or 4. Queſtions, for he hath propounded, <hi>and bids put home theſe Queſtions, and if he do not boggle or Equivocate, its ten to one but he will betray groſs Ignorance,</hi>
+            </p>
+            <pb n="6" facs="tcp:172618:6"/>
+            <p>Oh the conceit he hath of his own Queſtions, come lets hear and Anſwer his ſecond.</p>
+            <p n="2">2 <hi>Queſt.</hi> p. 7. <hi>Is it Chriſt himſelf, who was Crucified, without the Walls of</hi> Jeruſalem <hi>or ſomething diſtinct from Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The Life which is the Light of Men is the Life and Light of the ſame Chriſt, who was born of the <hi>Virgin Mary,</hi> was put to Death upon the Croſs (as concerning the fleſh) quickened and raiſed by the Spi<g ref="char:EOLhyphen"/>rit, and aſcended into Glory. Yet this his Divine Life and Light never dyed, nor was put to death.</p>
+            <p>But he follows his Queſtion thus, <hi>If he ſay it is Chriſt himſelf enquire of him, whether this Light is in every mans heart and Conſcience, was born of the</hi> Virgin Mary, <hi>Suf<g ref="char:EOLhyphen"/>fered under</hi> Pontius Pilate, <hi>dyed upon the Croſs, aſcended into Heaven, after its Reſurrection, and ſitteth at the right hand of God; all theſe things we know are true of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> And ſo ſay I all theſe things are true of Chriſt according to the Fleſh, altho we do not believe him to be ſo, <hi>i. e.</hi> according to the fleſh in every man, yet he is owned by us called <hi>Quakers</hi> according unto holy Scripture Teſtimony both in the fleſh and in the Spirit, ſee <hi>Peter</hi> 3.18. and <hi>Heb.</hi> 2.18. <hi>for in that he himſelf hath ſuffered;</hi> and alſo <hi>Acts</hi> 17.3. and <hi>Heb</hi> 13.12. Wherefore Jeſus alſo, that he might ſanctify the People with his own Blood, ſuffered without the Gate.</p>
+            <p>And none of this is Blaſphemy to neither doth this betray groſs Ignorance on our parts, but of his as may further appear in anſwer to his other Queſtions.</p>
+            <p n="3">3. Queſt. <hi>If he ſay it is ſomething diſtinct from Chriſt: ask him whether it be a Body or Spirit.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is Anſwered in Reply to the former, that it was Chriſt himſelf that ſuffered as concerning the fleſh, and was quickened and raiſed by the Spirit. And this Author ſaith p. 14. <hi>That God ſuffered, but tis Blaſphemy to ſay the Godhead ſuffered.</hi> And if he either
+<pb n="7" facs="tcp:172618:6"/> thought we had, or expected we ſhould affirm that that Divine Life and Light of Chriſt we profeſs, be<g ref="char:EOLhyphen"/>lieve in, and expect Salvation by, did ever dye, he is groſ<g ref="char:EOLhyphen"/>ly miſtaken for we own Chriſt in the Fleſh, and Chriſt in the Spirit, Chriſt within, and Chriſt without, to be but one and the ſame Chriſt, under different appear<g ref="char:EOLhyphen"/>ances; and all they that will impartially Examine our Chriſtian Doctrines by the Holy Scriptures (like the noble <hi>Bareans</hi>) will find them according thereunto, notwithſtanding this Author ſaith, <hi>Perhaps he may here<g ref="char:EOLhyphen"/>after ſhew the contrary,</hi> But we fear him not.</p>
+            <p>And he proceeds in his Queſtion thus; <hi>Whether it be a Body or a Spirit; if he ſay it is a Body as</hi> Barklay, <q>
+                  <hi>Tis</hi> Vehiculum Dei, the Spiritual Body of Chriſt, the Fleſh and Blood of Chriſt, <hi>which came down from Hea<g ref="char:EOLhyphen"/>ven.</hi>
+               </q> 
+               <hi>Deſire him to deal freely with thee as a friend; and inform thee how this fleſh and blood can be in ſo many thouſand Hearts and Conſciences at once, as there are Men and Wo<g ref="char:EOLhyphen"/>men upon the face of the Earth, how can a Body reach from</hi> Penſilvania <hi>to</hi> Exon. <hi>p.</hi> 7.</p>
+            <p>
+               <hi>Anſw.</hi> 1ſt. As to theſe Queſtions, becauſe he puts ſuch a ſtreſs on them, I have taken the more notice of them; &amp; as to that Light of Jeſus Chriſt in the heart, which he queries, whether it be a Body or Spirit, we ſay it is the Life of that Word that was God, and was in the beginning with God, by whom all things were made. And as to the Humane Nature of Chriſt, he ſaith him<g ref="char:EOLhyphen"/>ſelf <hi>p</hi> 14 It was a Creature and <hi>Rob. Barkley</hi> doth not ſay, the Godhead is a Creature, ſo that <hi>Rob. Barkley</hi> doth not want to be reconciled unto <hi>George Whitehead</hi> nor their Doctrines unto Truth. But this Pamphleteer goes on Reaſoning or querying like the unbelieving <hi>Jews</hi> who ſaid how can this Man give us his Fleſh to Eate, and ſaith this Adverſary, <hi>How this Fleſh and Blood of Chriſt can be in ſo many thouſand Hearts and Conſciences as once, and how a Body can reach from</hi> Penſilvania <hi>to</hi> Exon.
+<pb n="6" facs="tcp:172618:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:172618:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:172618:8"/> By which it appears to me, notwithſtanding his Lear<g ref="char:EOLhyphen"/>ning, he ſhews himſelf ignorant, for he ſaith, <hi>unleſs you ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e my fl ſh, and drink my blood you have no life in you,</hi> Joh. 6.53. again he ſaith, <hi>he that eateth my fl ſh and drinketh my blood, dwelleth in me, and I in him, and I will raiſe him up at the laſt day.</hi> A <hi>Myſtery</hi> I fear this Libeller doth not underſtand, for as if Believers in Chriſt in <hi>Exon</hi> and <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ſilvania</hi> could not both partake of the Fleſh of Chriſt, is not this to limit him. For he ſaith <hi>p.</hi> 8. If we Read <hi>Chriſt in y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u, then this is the Sence,</hi> viz. <hi>Thoſe ſaving Gra<g ref="char:EOLhyphen"/>ces Fai h and Love, &amp;c. by which Chriſt dwells in our hearts.</hi>
+            </p>
+            <p>And can any of theſe ſaving Graces be wrought in the Heart but by Chriſt; and if he works them there, muſt he not be in the heart; and why ſhould this name<g ref="char:EOLhyphen"/>leſs Author be offended at Chriſts being in People, and his Light ſhining in their Hearts and Conſciences, what would he have nothing but ſin and Satan in Peoples Hearts; that in evil doing they might be kept, hating the Light becauſe their Deeds are evil, and refuſing to bring them to it. Sure thoſe are never like to be happy in this World, nor in that which is to come, that live and dye in Rebellion againſt the Light of Chriſt; nor thoſe will never know Chriſt, who is ſtronger then the ſtrong man Armed, (the Devil) and can ſpoil his Goods, (ſin and luſt) if they do not know and receive Chriſt within where the ſin and Luſt have had a place; how ſhould he ſpoil his Goods, deſtroy the ſin, and mor<g ref="char:EOLhyphen"/>tify the Luſt, and fulfil the Propheſie of him, <hi>viz.</hi> put an end to ſin, and finiſh tranſgreſſion, and bring in ever<g ref="char:EOLhyphen"/>laſting Righteouſneſs.</p>
+            <p>But to Return, its further obſervable, how ſcorn<g ref="char:EOLhyphen"/>fully, contemptuous and Atheiſtical and Blaſphemous this Libeller is againſt the Light, manifeſting thereby, that he is of the Seed of Evil doers, that ſhall never be renowned.</p>
+            <p>
+               <hi>Page</hi> 10. He ſaith, <hi>The Light within is the great</hi> Diana
+<pb n="9" facs="tcp:172618:8"/> 
+               <hi>by whom theſe Jacks of all Trades have their wealth. Hence it is that theſe Craftsmen ſpeak ſo honourably of the Idol. Great is the</hi> Quakers <hi>Light within, tis to be preferred to the Scrip<g ref="char:EOLhyphen"/>ture. By this we are to underſtand the Scriptures; this is a higher and Superior Rule which we ought eſpecially to attend; This is one of the Foundations on which the damnable Errors of the</hi> Quakers <hi>are built.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Obſerve the Rage and Blaſphemy of this offici<g ref="char:EOLhyphen"/>ous <hi>Presbiterian</hi> Advocate: Firſt how he Queries if this Light of Chriſt in the Heart and Conſcience, be God or Creature, finite or infinite, and in a few Pages ſaith its an Idol; O what horrid Blaſphemy is this, what the Light of Jeſus Chriſt in the Conſcience an Idol; and have the Jacks of all Trades their Wealth by this, ſure<g ref="char:EOLhyphen"/>ly if his Pious Mr. <hi>Flavel,</hi> his ingenious Mr. <hi>Hallet,</hi> and his Reverend Mr. <hi>Troſs</hi> as he calls them, have no better Advocates then this Scurrilous Airy Libeller, and envi<g ref="char:EOLhyphen"/>ous Scribler, they'l get little credit by him: but he goes on Ironically and Scoffingly, ſaying, <hi>great is the</hi> Quakers <hi>Light within, is to be preferred to the Scriptures, by this we are to try Thoughts, Words and Actions, by this we are to underſtand the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Anſw</hi> And is it not very true that Chriſts Light is to be preferred to the Scriptures becauſe it was before the Scriptures; For Chriſts Light which is the Life of that Word that was in the Beginning with God, and was God, muſt needs be before the Scriptures, and is no Creature or Finite.</p>
+            <p>And this the Author to the <hi>Hebrews</hi> declares to be quick and powerful, ſharper then a two edged Sword, dividing between the Joints and the Marrow, the Soul and the Spirit, and is a diſcerner of the thoughts and intents of the heart; and this the Scriptures of them<g ref="char:EOLhyphen"/>ſelves cannot do. Yet this poor dark-man, ſeems not willing to allow it to be a higher and ſuperior Rule, to which we ought eſpecially to attend, and yet it muſt be
+<pb n="10" facs="tcp:172618:9"/> granted, that Chriſt who is this Word, in whom the Life which is the Light of Men is ſuperior to the Scrip<g ref="char:EOLhyphen"/>tures, for the Holy men of God, writ the Scriptures as moved by the Holy Ghoſt, or Spirit of Chriſt, and that Holy ſpirit from whence they came, muſt needs be grea<g ref="char:EOLhyphen"/>ter then the Scriptures that are given forth by it.</p>
+            <p>But he further manifeſts his bitter Spirit, by affirm<g ref="char:EOLhyphen"/>ing that <hi>the Light within is one of the Foundations on which the damnable Doctrine of the</hi> Quakers <hi>are built.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is falſe, what are damnable Errors built on the Light? On what Light are theſe damnable Errors built, or what are them damnable Errors the <hi>Quakers</hi> hold? Let him demonſtrate this if he can. Oh the blind<g ref="char:EOLhyphen"/>neſs and Blaſphemy of this Man: Surely if his Mr. <hi>Hallet,</hi> or his Goſpel Miniſter Mr. <hi>Troſs</hi> teaches him no better then this or that theſe are the Fruits of their Miniſtery, they'l have but ſmall reputation by him. Again, If to ſay that Chriſts Light within is to be preferred to the Scriptures, and that by it we are to try Thoughts Words and Actions, and to underſtand the Scriptures, are rotten Aſſertions (as he Phraſes them) pray what are ſound, ſurely its not this Authors Aſſertions that <hi>the Light within is an Idol, and the Scriptures are the only ſu<g ref="char:EOLhyphen"/>pream and ſufficient Rule of Faith and Life.</hi>
+            </p>
+            <p>Theſe are neither ſound nor Scriptural, for if the Scriptures are the only Rule, then there is no other, if ſupream then whats above them, doth not this ſet the <hi>Letter</hi> above the <hi>Spirit,</hi> or the Scriptures above Chriſt, are not theſe erroneous ſayings.</p>
+            <p>And his 11th <hi>page</hi> he ſaith, <hi>A Chriſtian tryes and exa<g ref="char:EOLhyphen"/>mines his Thoughts, Words and Actions by the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But the Scriptures cannot immediatly tell or ſhew unto any man what his Thoughts, Words and Acti<g ref="char:EOLhyphen"/>ons are, for its the living powerful Word of God that is a diſcerner of the Thoughts and Intents of the Heart, ſee <hi>Amos</hi> the 4. <hi>ch</hi> and laſt <hi>verſe,</hi> and <hi>Heb.</hi> 4.12. And its
+<pb n="11" facs="tcp:172618:9"/> this that muſt quicken unto God, and teach man how to think, ſpeak and do as he ought: And its the Light of Jeſus Chriſt that ſhines in Peoples hearts, that ſhews or manifeſts unto them all thoſe thoughts, words and actions that are reprovable, according unto the Apoſtles Teſtimony, <hi>Eph.</hi> 5.13. But all things that are repro<g ref="char:EOLhyphen"/>ved, are made manifeſt by the Light: For whatſoever doth make manifeſt is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight: And therefore, ſaid Chriſt the Light. Whoever think to have life in the Scriptures, which teſtify of Chriſt, will fall under Chriſts reprehen<g ref="char:EOLhyphen"/>ſion if they do not come to him, for he ſaid ye ſearch, or <hi>ſearch ye the Scriptures, for in them ye think to have eter<g ref="char:EOLhyphen"/>nal Life, and they are they which teſtify of me, and ye will not come to me, that ye may have Life,</hi> Joh. 5.39, 40.</p>
+            <p>And in <hi>page</hi> 11. he ſaith, <hi>the Pagans Rule is the light of Nature, and the</hi> Quakers <hi>Rule the Light within.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Now if the <hi>Quakers</hi> Rule is not a ſaving Light and of the Divine Nature, what light is it? For he plain<g ref="char:EOLhyphen"/>ly declares them to be two, and not one and the ſame Light. And yet ſaith, <hi>The</hi> Pagans <hi>Rule is good in its kind and place, it diſcovers the Bei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, Power, Wiſdom and Good<g ref="char:EOLhyphen"/>neſs of God, ſo as to leave them without Excuſe, who do not walk according to it; but it cannot diſcover Chriſt, by whom alone ſinners can be ſaved.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> How doth it diſcover the Power, Wiſdom and goodneſs of God, and yet not diſcover Chriſt by whom alone ſinners can be ſaved: Surely if it diſcovers the Power, Wiſdom and Goodneſs of God, it diſcovers Chriſt, for <hi>Paul</hi> ſaith, 1 <hi>Cor.</hi> 1.23, 24. <hi>We Preach Chriſt Crucified unto the</hi> Jews <hi>a ſtumbling block, unto the</hi> Greeks <hi>foo<g ref="char:EOLhyphen"/>liſhneſs, but unto them that are called both</hi> Jews <hi>and</hi> Greeks, <hi>Chriſt the Power of God, and the Wiſdom of God.</hi>
+            </p>
+            <p>And indeed Chriſts Light, which the People called <hi>Quakers</hi> believe in is of a Divine and ſaving Nature, al<g ref="char:EOLhyphen"/>tho this Author charges <hi>J. N.</hi> with Blaſphemy for cal<g ref="char:EOLhyphen"/>ling the Light within (which we profeſs) Chriſts Light
+<pb n="12" facs="tcp:172618:10"/> within, yet we do moſt ſincerely declare, we neither Preach, Believe in, nor expect Salvation by any other Light then Chriſt Jeſus, the dear Son of Gods Love, made of a Woman under the Law, <hi>Gal.</hi> 4.4. <hi>even him who was manifeſt in the fleſh, juſtified in the ſpirit, ſeen of Angels Preached unto the Gentlies, Believed on in the World, received up into Glory,</hi> 1 Tim. 3.16.</p>
+            <p>And <hi>page</hi> 12. he ſaith, <hi>I grant that Chriſt hath given us a Rule, and the Holy ſpirit enables all the People of God to walk according to it.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What then, is the Spirit greater then the Rule, or the Rule ineffectual without the Spirit, doth not this plainly imply one of theſe, and if the Spirit be greater, or the Rule ineffectual without it, why doth this Scri<g ref="char:EOLhyphen"/>bler ſay the Scriptures is the only ſupream and ſuffi<g ref="char:EOLhyphen"/>cient Rule.</p>
+            <p>Is not this plain contradiction; yet in the ſame Page ſcornfully ſaith <hi>i. e.</hi> thus, <hi>Rare edifying Diſcourſe, Chriſt is the only Rule, the gift of Gods ſpirit in our own Hearts is the Rule, the Holy Ghoſt is the Rule, the Light within is the Rule, the Light of Jeſus is the Rule.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And doth it then become him thus ſcornfully to Write, O well would it have been for him, that theſe had been his Rule, for then he would have been better ruled, and guided his Pen better then he hath. But he runs farther, ſaying <hi>The Spirit is ſo far from being our Rule, that God hath given us his written Word to try whether we have the ſpirit thereby.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> And if this were true, thoſe that were before the Scriptures, or Written Word as he calls it, was, how could they tell whether they had the Spirit or no? Now how did the Apoſtles and primitive Chriſtians that were before the <hi>New Teſtament</hi> was writ, know they had the Spirit, was it by the <hi>Old Teſtament,</hi> and was that then the written word by which they knew they had the ſpirit, &amp; if that were the written word, by which they k<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w they had the Spirit, &amp; was not the Evangeliſts the
+<pb n="13" facs="tcp:172618:10"/> Word, and the Epiſtles in the <hi>New Teſtament</hi> the writ<g ref="char:EOLhyphen"/>ten Word, then how many Written Words are there, and by the ſame Rule he calls the Scriptures the Word of God, may not thoſe aforenamed be called the Word, and if there be ſo many Words of God, how far ſhort will this fall of what the <hi>Quakers</hi> believe that Chri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the Eternal Word of God, and the Holy Scriptures the Words of God. And if he will affirm, thoſe that have not the Scriptures cannot tell, whether they have the Spirit or no, let him ſhew what Scripture he h th for it; for doth not the Scripture ſay, <hi>by this we know w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are of God,</hi> by the ſpirit which he hath given us; but if we cannot know whether we have the Spirit but by the Scriptures, we cannot tell whether we are of God or nay, but by the Scriptures; but is not this contradicto<g ref="char:EOLhyphen"/>ry to the Scriptures, and beſides his only and ſupream Rule. But we would have all know we own, eſteem, and truly value the Holy Scriptures, have often ſo de<g ref="char:EOLhyphen"/>clared in all ſincerity and uprightneſs of Heart, that all Scripture is given by Inſpiration of God, and is profi<g ref="char:EOLhyphen"/>table for Doctrine, for Reproof, for Correction, for In<g ref="char:EOLhyphen"/>ſtruction in Righteouſneſs, that the Man of God may be perfect, throughly furniſhed unto all good Works. 2 <hi>Tim.</hi> 3.16, 17. and are able to make Wiſe unto ſalva<g ref="char:EOLhyphen"/>tion, through faith in Chriſt Jeſus. Notwithſtanding this Libeller ſayes, for which we have only his <hi>ipſe dixit,</hi> that we give the Holy Scriptures, the Epethites of <hi>car<g ref="char:EOLhyphen"/>nal Letter, a dead killing Letter, the Husk, which is fit for nothing but Swine.</hi> p. 20. which I deny, and charge on him as a notorious, falſe and lying ſlander, which his Pam<g ref="char:EOLhyphen"/>phlet abounds with, and are not worthy taking notice of: nor to ſpend Time and Paper to anſwer.</p>
+            <p>But having thus in brief ſhown ſome of the Errors and Contradictions of this nameleſs Author, and detect<g ref="char:EOLhyphen"/>ed him for his Scurrilous and abuſive Pamphlet, I ſhall ddreſs my ſelf to the Inhabitants in and about <hi>Exon,</hi> and
+<pb n="14" facs="tcp:172618:11"/> all to whom theſe may come, in whom there are any degree of Chriſtian Charity and Godly ſincerity.</p>
+            <p>I do in the holy fear of Almighty God, &amp; in the good will of him that dwelt in the burning <hi>Buſh;</hi> and the Bow<g ref="char:EOLhyphen"/>els of him that dyed for us, and roſe again for our Juſti<g ref="char:EOLhyphen"/>fication, ſincerely declare my Friends have no other end in their Writing and Preaching, but that all people might be gathered unto the Lord Jeſus Chriſt, &amp; brought unto his Light &amp; Spirit in all their hearts, that by it they may come to ſee their ſtates, and be made truly ſenſible of their conditions, and through receiving and believing in Chriſt the light, may come to know him to reveal the Father unto them, that the ſaving knowledge of the on<g ref="char:EOLhyphen"/>ly true God, &amp; Jeſus Chriſt, they may come to receive, &amp; thereby be made partakers of eternal Life, and by the work of his Word &amp; Spirit in their hearts, might know all that to be wrought out which the Light manifeſt to be contrary to the mind and Will of God, and by this Spirit might know the true Baptiſm, and the inward waſhing with pure Water (the holy Spirit) by the the Word of God, that they may be truly fitted for Gods heavenly Kingdom, and know an entrance thereunto. And by this Spirit (the beſt Rule) may Worſhip God ac<g ref="char:EOLhyphen"/>cceptably through Jeſus Chriſt, and be enabled daily to live unto him, to the praiſe of his Grace, and might en<g ref="char:EOLhyphen"/>joy peace, and have the comfort of the holy Scriptures and the things of God opened unto them by it knowing, as the Apoſtle ſaid, <hi>that as no man knows the things of a man ſave the ſpirit of a man that is in him, ſo the things of God knows no man but the ſpirit of God, becauſe they are ſpiritual<g ref="char:EOLhyphen"/>ly diſcerned,</hi> and not to be attained unto by outward Le<g ref="char:EOLhyphen"/>tarature, or weariſome ſtudy of any man that receives not this Spirit. And therefore we call to all to ceaſe from men and their Teachings, that are in their Carnal ſtate, and Earthly Wiſdom, and dark conceivings, and turn their mind inward to the ſaving Light of the Lord
+<pb n="15" facs="tcp:172618:11"/> Jeſus Chriſt, to receive, and believe in it, that you may be the Children of it, and by walking in it, may know the precious virtue of the Blood of Jeſus Chriſt to cleans you from all unrighteouſneſs, and bring you into that ſtate wherein you may find peace and acceptance with God through Jeſus Chriſt his dear Son our Lord and be enabled by him to bear his Yoak, take up his Croſs to de<g ref="char:EOLhyphen"/>ny your ſelves and follow him through the many tribu<g ref="char:EOLhyphen"/>lations, and to endure cruel Mockings, and to ſuffer re<g ref="char:EOLhyphen"/>proach as its our lott, for his ſake that ſuffered the con<g ref="char:EOLhyphen"/>tradiction of ſinners for our ſake; ſo that the life of true Religion you might feel and enjoy in your ſelves, and not remain under the windy Doctrines of Men their empty forms and Ceremonies, but come to Chriſt the ſubſtance, by hearkning to his Voice, and opening the Door of your hearts by Faith and let him in, <hi>that he may ſup with you, and you with him,</hi> and drink of the Cup of his Bleſſing, know the Communion of Saints, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the brea<g ref="char:EOLhyphen"/>king of Bread, which is the Body of Chriſt, and to know a being built upon him, the ſure foundation, that ye may be able to ſtand in that day wherein all mens foundations ſhall be tryed, and may know Bread in your own Houſes, and Water in your own Ciſterns, Oyle in your own Lamps, that when the cry is, pre<g ref="char:EOLhyphen"/>pare to meet the Bridegroom, tho at Midnight you may be ready; and to enter in with the bridegroom to the Marriage Chamber. Oh awake awake you careleſs pro<g ref="char:EOLhyphen"/>feſſors of Chriſt, do not ſleep, in your empty forms and lifeleſs Profeſſion of Chriſtianity, but get Oyle in your Lamps, grace in your hearts that he may ſhine forth in your lives and Converſations, and do not in Works deny him, whom in Words ye profeſs for he ſees and beholds you, marks your wayes, knows your Works, and will reward you accordingly.</p>
+            <closer>
+               <signed>
+                  <hi>Saith your Friend,</hi> JOHN FIELD.</signed>
+            </closer>
+            <pb n="14" facs="tcp:172618:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:172618:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:172618:13"/>
+            <head>A POSCRIPT By another hand.</head>
+            <p>SOber Reader, to whom this may come, the holy Scriptures of truth bears a large Teſtimony againſt wicked perſons, eſpecially againſt Scorners, Scoffers and Mockers, &amp; of the Judgement &amp; wrath of God againſt them, as ye may read <hi>Pro, 1 22.</hi> to the end: and as hateful and rejected of God ſo the Scorner is abomination to men, <hi>pro. 24.9.</hi> many other places of Scrip<g ref="char:EOLhyphen"/>ture teſtify againſt them even as the worst of men.</p>
+            <p>The Scriptures are fulfilled in our day, viz. in the last dayes ſhall come Mockers and Scoffers, walking after their ungodly Luſts, and the Children of the Lord in former Ages were ſet as Gazing ſtocks and ſigns and won<g ref="char:EOLhyphen"/>ders, and accounted as the Offscouring of all, and now its not ſtrange that the ſame thing happens to us.</p>
+            <p>Now the end of Writing theſe Lines are tenderly to adviſe &amp; warn the Rea<g ref="char:EOLhyphen"/>ders to beware of that light, vain, ſcoffing Spirit, which in the ſaid Book is manifeſted, and not to ſuffer the ſame Spirit to ariſe in them, or to be taken with it. The Author having concealed his name, I have given forth theſe Lines to purſue his vain wicked ſpirit, and warn others to take heed of it. I leave it all to the Lord from whom he, we, and all ſhall receive a Reward according to our deeds.</p>
+            <p>The aforeſaid Book is ſtuft with ſo much ſcorning &amp; vain ſcurilous Lan<g ref="char:EOLhyphen"/>guage, as if the Author were even ſet in the ſeat of the Scornful, and made it his work to utter out folly and wickedneſs, and his pleaſure and delight therein (utterly contrary to true Wiſdom and Chriſtianity it ſelf) greatly condemned in the holy Scriptures of Truth, as appears by ſome of his vain light ſcoffing and ſcorning Expreſſions, with his vilifying and r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>proaching the People called <hi>Quak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> follows, <hi>viz. A Fanatical ſort of people com<g ref="char:EOLhyphen"/>monly culled</hi> Quakers, <hi>from their trembling &amp; raving when they told their Dreams, being acted in the ſame manner, as the</hi> Heathen South<g ref="char:EOLhyphen"/>ſayers <hi>buzing the ignorant in the Ears with their Intellible</hi> Jorgan, <hi>this odumbred Sect, Spawn of the</hi> Munſter <hi>Reformer, a by blow of the Jugling</hi> Jeſuits, <hi>or Mungril Race, who licked up</hi> Socimus<hi>'s Vomit, in<g ref="char:EOLhyphen"/>ſpired with</hi> John Leydons <hi>Euthuſiaſims, and have ſucked in</hi> Popiſh <hi>per<g ref="char:EOLhyphen"/>fection and Infallibility.</hi> Now how hath he powred out his Wicedneſs like a flood, the Lord rebuke him: doth he conſider, that in the day of Judge<g ref="char:EOLhyphen"/>ment every idle word muſt be accounted for, how much then the multitude of his ſcorns, ſcoffs and jears; Oh vain man, let him repent. And now in this his ſcornful ſpirit he will undertake to interpret Scripture and talk of Piety, and vindicate ſome perſons as pious, &amp; calls one <hi>a Reverend Divine and</hi> our <hi>ſtouteſt Champions,</hi> If they be ſuch as he Intimates they will account the Vindication of ſuch a Scorner, a Diſgrace, unto them. It would have been well if he had conſulted and conſidered the Holy Scriptures before he had thus powred out his vanity reproach &amp; ſcorn, it may be he will ſay they are a rule, but he never had any ſuch Example from Chriſt, or his Apoſtles. Oh vain man, remember God will bring thee to Judgement for theſe things, and therefore thou ſhould not be high minded, but fear the great God, who will give a reward to eveey one according to their deeds, from whom thou cannot hide thy ſelf tho thou hideſt thy name from publick view, and tho I know not who thou art, yet thy wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manifeſts what thou art. I have written this in love to thee and all to whom this may come and leave the iſſue to the Lord.</p>
+            <closer>
+               <signed>By a well wiſher for the good of all people. <hi>J. BATT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
